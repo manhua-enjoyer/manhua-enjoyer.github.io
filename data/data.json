@@ -1,0 +1,15 @@
+{
+    "person" : {
+        "firstName": "Elijah",
+        "lastName": "Chan"
+    },
+    "work": {
+        "job": "god",
+        "program": "D3",
+        "url": "https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/"
+    },
+    "study":{
+        "programs": ["Applied digital science", "Computer System Certiicate", "Computer Systems Diploma"],
+        "department": "School of computer and imformation technology"
+    } 
+}
